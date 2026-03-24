@@ -16,7 +16,7 @@ def main():
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
 
     # Add your own message here!
-    print("[I USE GIS AS A TOOL TO KEEP COMMUNITIES INFORMED, EMPOWERED, AND CONNECTED TO LOCAL TRANSPORTATION PROJECTS]")
+    print("[I USE GIS AS A TOOL TO HELP COMMUNITIES STAY INFORMED, EMPOWERED, AND CONNECTED TO LOCAL TRANSPORTATION PROJECTS]")
 print('Updated in Codespaces')
 if __name__ == "__main__":
     main()
