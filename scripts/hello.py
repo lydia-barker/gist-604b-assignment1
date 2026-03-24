@@ -17,6 +17,6 @@ def main():
 
     # Add your own message here!
     print("[I USE GIS AS A TOOL TO KEEP COMMUNITIES INFORMED, EMPOWERED, AND CONNECTED TO LOCAL TRANSPORTATION PROJECTS]")
-
+print('Updated in Codespaces')
 if __name__ == "__main__":
     main()
